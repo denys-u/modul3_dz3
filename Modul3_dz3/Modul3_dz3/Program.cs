@@ -2,7 +2,7 @@
 
 namespace Modul3_dz3
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
